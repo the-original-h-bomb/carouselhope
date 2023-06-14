@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\migrations"
   ],
-  "SelectedNode": "\\C:\\Projects-Repo\\SchemaChange_testing",
+  "SelectedNode": "\\migrations\\V1.1.1__initial_objects.sql",
   "PreviewInSolutionExplorer": false
 }
